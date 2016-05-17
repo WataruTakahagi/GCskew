@@ -1,4 +1,3 @@
-#!/usr/local/bin/python
 
 import csv
 f = open('sequence.txt','r').read()
